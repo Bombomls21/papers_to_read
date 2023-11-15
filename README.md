@@ -13,9 +13,10 @@
 2. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
 3. Squeeze-and-Excitation Networks (2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
 4. CBAM: Convolutional Block Attention Module (2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
-5. [Overview](https://github.com/Bombomls21/External-Attention-pytorch)
 
 # Others
 1. Conformer: Local Features Coupling Global Representations for Visual Recognition (2021) [PDF](https://arxiv.org/pdf/2105.03889.pdf)
 2. Diverse Features Discovery Transformer for Pedestrian Attribute Recognition (2023) [PDF](https://aihuazheng.github.io/publications/pdf/2023/2023-Diverse_features_discovery_transformer_for_pedestrian_attribute_recognition.pdf)
+
+[Overview](https://github.com/Bombomls21/External-Attention-pytorch)
 
