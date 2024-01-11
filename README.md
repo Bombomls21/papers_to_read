@@ -3,6 +3,13 @@
 2. DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf)
 3. PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.pdf)
 
+# Object Detection
+1. Rich feature hierarchies for accurate object detection and semantic segmentation (2014) [PDF](https://arxiv.org/pdf/1311.2524.pdf)
+2. Fast R-CNN (2015) [PDF](https://arxiv.org/pdf/1504.08083.pdf)
+3. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2016) [PDF](https://arxiv.org/pdf/1506.01497.pdf)
+4. End-to-End Object Detection with Transformers (2020) [PDF](https://arxiv.org/pdf/2005.12872.pdf)
+5. A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS (2024) [PDF](https://arxiv.org/pdf/2304.00501.pdf)  **ON-GOING**
+
 # Self-Driving
 1. Neural Networks for Path Planning (2022) [PDF](https://arxiv.org/pdf/2207.00874.pdf)
 2. Enhancing Object Detection in Self-Driving Cars Using a Hybrid Approach (2023) [PDF](https://drive.google.com/file/d/1CrYdmMzsuqpm8-BINHh0JaKEUj6DoQUM/view?fbclid=IwAR17rRevC4W428tWsDr2XoJyyFpGeR_bp3nS5cXqVbFvoJ766rtvPc-qhVY)
